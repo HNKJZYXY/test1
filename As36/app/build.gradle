@@ -6,8 +6,13 @@ android {
 
     defaultConfig {
         applicationId "com.example.as36"
+<<<<<<< HEAD
         minSdkVersion 20
         targetSdkVersion 29
+=======
+        minSdkVersion 17
+        targetSdkVersion 30
+>>>>>>> chenlizhu
         versionCode 1
         versionName "1.0"
 
